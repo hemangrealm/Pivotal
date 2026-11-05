@@ -1,4 +1,4 @@
-# 
+# TrueNorth Calc
 Unlock your financial freedom with Percentile Pocket! A powerful interactive simulation tool that runs 10,000 Monte Carlo projections to analyze risk and project wealth. Customize financial parameters instantly through a command-line interface and explore detailed browser reports to optimize your future trajectory.Features an interactive CLI setup and automatically generates publication-ready browser analytics dashboards.
  It calculates potential portfolio paths, tests sequence-of-returns risk, and generates intuitive HTML reports directly in your browser.
 
